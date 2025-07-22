@@ -60,10 +60,42 @@ This 12-week journey explores advanced concepts like:
 
 ---
 
-## 📁 Folder Structure
+### 📁 Folder Structure
 
-<pre> ```none advanced-java-skillup/ ├── README.md ├── week-01-core-java/ │ ├── tic-tac-toe/ │ └── type-casting-demo/ ├── week-02-oop/ │ ├── library-management-system/ │ └── inheritance-examples/ ├── week-03-collections-threads/ │ ├── employee-analyzer/ │ ├── maven-setup/ │ └── lambda-streams-demo/ ├── week-04-servlets-jsp/ │ ├── login-system/ │ ├── jdbc-crud-app/ │ └── online-banking-app/ ├── upcoming-weeks/ │ ├── week-05-spring-boot-intro/ │ ├── week-06-rest-api-development/ │ ├── week-07-spring-security/ │ ├── week-08-hibernate-jpa/ │ ├── week-09-microservices-eureka/ │ ├── week-10-docker-containerization/ │ ├── week-11-testing-junit-mockito/ │ └── week-12-capstone-project/ ├── projects/ │ ├── e-wallet-app/ │ ├── ecommerce-backend/ │ └── dockerized-microservice-app/ └── docs/ ├── spring-cheatsheets/ └── deployment-notes/ ``` </pre>
-
+```text
+advanced-java-skillup/
+├── README.md
+├── week-01-core-java/
+│   ├── tic-tac-toe/
+│   └── type-casting-demo/
+├── week-02-oop/
+│   ├── library-management-system/
+│   └── inheritance-examples/
+├── week-03-collections-threads/
+│   ├── employee-analyzer/
+│   ├── maven-setup/
+│   └── lambda-streams-demo/
+├── week-04-servlets-jsp/
+│   ├── login-system/
+│   ├── jdbc-crud-app/
+│   └── online-banking-app/
+├── upcoming-weeks/
+│   ├── week-05-spring-boot-intro/
+│   ├── week-06-rest-api-development/
+│   ├── week-07-spring-security/
+│   ├── week-08-hibernate-jpa/
+│   ├── week-09-microservices-eureka/
+│   ├── week-10-docker-containerization/
+│   ├── week-11-testing-junit-mockito/
+│   └── week-12-capstone-project/
+├── projects/
+│   ├── e-wallet-app/
+│   ├── ecommerce-backend/
+│   └── dockerized-microservice-app/
+└── docs/
+    ├── spring-cheatsheets/
+    └── deployment-notes/
+```
 
 ---
 
