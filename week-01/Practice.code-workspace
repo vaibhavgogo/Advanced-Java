@@ -10,6 +10,7 @@
 	],
 	"settings": {
 		"java.format.settings.url": "Practice/.vscode/java-formatter.xml",
-		"java.settings.url": "Practice/.vscode/java-formatter.xml"
+		"java.settings.url": "Practice/.vscode/java-formatter.xml",
+		"liveServer.settings.multiRootWorkspaceName": "Practice"
 	}
 }
