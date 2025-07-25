@@ -156,9 +156,9 @@ advanced-java-skillup/
 
 ## 🤝 Connect
 
-**LinkedIn:** [Your LinkedIn](https://linkedin.com/in/your-profile)  
-**GitHub:** [Your GitHub](https://github.com/your-username)  
-**Email:** [yourname@example.com](mailto:yourname@example.com)  
+**LinkedIn:** [Vaibhav Sharma](https://www.linkedin.com/in/vaibhav-sharma-682584208/)  
+**GitHub:** [vaibhavgogo](https://github.com/vaibhavgogo)  
+**Email:** [vaibhavsmartkid@gmail.com](mailto:vaibhavsmartkid@gmail.com)
 
 ---
 
