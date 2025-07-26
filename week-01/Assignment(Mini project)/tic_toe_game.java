@@ -31,17 +31,17 @@ static void draw(){
  draw();
 String x="X";
 String y="O";
-bool win=false;
+boolean win=false;
 int user1;
 int user2;
 for(int i=0;i<9;i++){
     if(i%2==0){
           System.out.println("User 1 : Press given no. to Put X : ");
-          user1=sc.nextString();
+          user1=sc.nextInt();
     }
     else{
            System.out.println("User 2 : Press given no. to Put O : ");
-           user2=sc.nextString();
+           user2=sc.nextInt();
     }
 }
 
