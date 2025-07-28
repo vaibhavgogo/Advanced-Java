@@ -1,86 +1,85 @@
-# 📘 Week 1 – Web Development Fundamentals (HTML Focus)
+# 📘 Week 1 – Advanced Java Fundamentals
 
 ## 🗓️ Duration
-**Start Date:** July 20, 2025  
-**End Date:** July 26, 2025
+**Start Date:** July 23, 2025  
+**End Date:** July 27, 2025
 
 ---
 
-## ✅ Topics Covered – HTML
+## ✅ Topics Covered – Core Concepts of Advanced Java
 
-- **HTML5 Document Structure**
-  - `<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`
-  - Meta tags: `charset`, `viewport`, `<title>`
+- **Java Class & Object Basics**
+  - Defining classes (`Animal`, `Dog`, `Cat`)
+  - Object instantiation and reference
+  - `.class` file compilation
 
-- **Text and Content Tags**
-  - Headings: `<h1>` to `<h6>`
-  - Paragraphs: `<p>`
-  - Horizontal line: `<hr>`, line break: `<br>`
-  - Comments: `<!-- comment -->`
+- **Inheritance and Polymorphism**
+  - Parent-child class relationships
+  - Method overriding
+  - Dynamic method dispatch
 
-- **Text Formatting**
-  - Bold: `<b>`, `<strong>`
-  - Italic: `<i>`, `<em>`
-  - Underline: `<u>`
-  - Superscript: `<sup>`, Subscript: `<sub>`
+- **Upcasting & Downcasting**
+  - Upcasting: Parent reference to child object
+  - Downcasting: Explicit casting from parent to child
+  - Use case: `Animal a = new Dog();`
 
-- **Lists**
-  - Ordered list: `<ol>`, Unordered list: `<ul>`, List items: `<li>`
-  - Description list: `<dl>`, `<dt>`, `<dd>`
+- **Typecasting**
+  - Primitive and reference type casting
+  - Runtime type checks: `instanceof` keyword
 
-- **Links and Anchors**
-  - Anchor tag: `<a href="URL">`
-  - Open in new tab: `target="_blank"`
-  - Internal page navigation using IDs
+- **Conditional Statements**
+  - `if`, `else if`, `else` constructs
+  - Nested conditions
 
-- **Images**
-  - Tag: `<img src="path" alt="description">`
-  - Width, height attributes
-  - Responsive image tips
+- **Loops**
+  - `for`, `while`, `do-while` loops
+  - Iteration and flow control
 
-- **Tables**
-  - Table structure: `<table>`, `<tr>`, `<td>`, `<th>`
-  - Table headers, rows, and columns
-  - Spanning rows/columns: `rowspan`, `colspan`
+- **Error Handling**
+  - Syntax-level error testing
+  - Debugging invalid inputs or logic errors
 
-- **Forms**
-  - `<form>` tag with `action` and `method`
-  - Input types: `text`, `email`, `password`, `submit`
-  - `<label>`, `<select>`, `<textarea>`, checkboxes, radio buttons
-  - Attributes: `placeholder`, `required`, `name`
-
-- **Semantic HTML**
-  - Structure tags: `<header>`, `<main>`, `<section>`, `<article>`, `<footer>`
-  - Navigation: `<nav>`, Sidebar: `<aside>`
-
-- **Media Embeds**
-  - Video: `<video src="" controls>`
-  - Audio: `<audio src="" controls>`
-  - Embedded YouTube videos using `<iframe>`
-
-- **HTML Entities**
-  - `&nbsp;` (non-breaking space), `&lt;`, `&gt;`, `&copy;`, `&amp;`, etc.
+- **Java Program Structure**
+  - `public static void main(String[] args)`
+  - Compilation and execution flow
 
 ---
 
-## 🛠️ Practice/Projects
-📂 Folder: `./Assignments_Mini_Projectss/`  
-✅ homepage  
-✅ simple_portfolio  
-✅ survey_form
+## 🛠️ Practice Files  
+📂 Folder: _Root Java Project Directory_
 
-### 🔹 Personal Landing Page
-> A simple, responsive web page built using HTML. Contains a personal intro, contact details, and image.
-
+| File Name            | Description                                |
+|----------------------|--------------------------------------------|
+| `HelloWorld.java`    | First Java program                         |
+| `Animal.class`       | Compiled class file for Animal superclass  |
+| `Dog.class`, `Cat.class` | Compiled subclass files demonstrating inheritance |
+| `Upcasting.java`     | Example of upcasting and runtime polymorphism |
+| `downcasting.java`   | Example of downcasting                     |
+| `condition.java`     | Demonstration of conditional statements    |
+| `loop.java`          | Loop usage examples                        |
+| `error.java`         | Code with intentional errors for learning  |
+| `variable.java`      | Variable declaration and assignment        |
 
 ---
+
+🔍 Learning Goals
+Understand how Java executes programs via JVM
+
+Practice object-oriented principles: class, object, inheritance
+
+Learn how casting works in Java (upcasting and downcasting)
+
+Apply conditional logic and loops
+
+Write modular and clean code
 
 
 ## 📌 Summary
 
-This week focused on mastering **HTML5**, including page structure, forms, semantic elements, and multimedia embedding. These basics build the foundation for responsive and interactive web applications.
+Week 1 of Advanced Java focused on revisiting and strengthening object-oriented fundamentals. Key areas included class hierarchies, typecasting, program structure, and control flow, setting the stage for more advanced topics like JDBC, multithreading, and servlet programming.
 
 ---
 
-
+🙋‍♂️ Author
+Vaibhav Sharma
 
