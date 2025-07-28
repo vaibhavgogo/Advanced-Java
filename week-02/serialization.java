@@ -1,7 +1,7 @@
 import java.io.*;
 
 class Student implements Serializable {
-    private static final long serialVersionUID = 1L;
+    // private static final long serialVersionUID = 1L;
     private String name;
 
     public Student(String name) {
@@ -14,7 +14,7 @@ class Student implements Serializable {
     }
 }
 
-public class Main {
+public class serialization {
     public static void main(String[] args) {
         // Serialization
         try (ObjectOutputStream out = new ObjectOutputStream(new FileOutputStream("student.ser"))) {
