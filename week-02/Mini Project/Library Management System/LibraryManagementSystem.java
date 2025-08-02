@@ -1,19 +1,7 @@
 import java.util.*;
 class LibraryManagementSystem{
-  class book{
- public 
-  public int no;
-    public String name;
-    public String A_name;
-    public int qty;
-    public int qtycpy;
-  };
-  class student{
- public 
-  public int no;
-    public String name;
-   
-  };
+  
+  
 public static void display(){
    System.out.println(
             "----------------------------------------------------------------------------------------------------------");
@@ -39,6 +27,8 @@ public static void display(){
             "                  Select From The Following Options:               ");
         System.out.println(
             "**********************************************************************");
+            Student s=new Student();
+            Book b=new Book();
             while(true){
                display();
   Scanner sc=new Scanner(System.in);
